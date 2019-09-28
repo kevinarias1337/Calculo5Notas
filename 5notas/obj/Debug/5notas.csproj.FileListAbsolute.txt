@@ -1,0 +1,10 @@
+D:\5notas\5notas\obj\Debug\5notas.csprojAssemblyReference.cache
+D:\5notas\5notas\obj\Debug\_5notas.Form1.resources
+D:\5notas\5notas\obj\Debug\_5notas.Properties.Resources.resources
+D:\5notas\5notas\obj\Debug\5notas.csproj.GenerateResource.cache
+D:\5notas\5notas\obj\Debug\5notas.csproj.CoreCompileInputs.cache
+D:\5notas\5notas\bin\Debug\5notas.exe.config
+D:\5notas\5notas\bin\Debug\5notas.exe
+D:\5notas\5notas\bin\Debug\5notas.pdb
+D:\5notas\5notas\obj\Debug\5notas.exe
+D:\5notas\5notas\obj\Debug\5notas.pdb
